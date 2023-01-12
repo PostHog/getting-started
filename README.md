@@ -1,2 +1,1 @@
-# getting-started
-Simple app to get started using PostHog
+# Getting started with PostHog
